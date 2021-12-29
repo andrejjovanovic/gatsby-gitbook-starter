@@ -27,7 +27,7 @@ const config = {
 		      </div>
 		    </a>
 		  </li>`,
-    links: [{ text: '', link: '' }],
+    links: [{ text: 'Academy', link: 'https://hasura.io' }],
     search: {
       enabled: false,
       indexName: '',
